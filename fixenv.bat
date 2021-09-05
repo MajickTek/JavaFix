@@ -1,1 +1,1 @@
-setx -m JAVA_HOME "%1"
+setx -m JAVA_HOME "path/to/jdk"
